@@ -9,8 +9,8 @@ This project provides a basic template for building RESTful APIs with CRUD (Crea
 ## Prerequisites
 Make sure you have the following installed on your machine:
 <ol>
-<li>Node.js (version LTS)</li>
-<li>MongoDB (version LTS)</li>
+<li>Node.js (version LTS: 18.6.0)</li>
+<li>MongoDB (version LTS: 6.0.6)</li>
 </ol>
 
 ## Getting Started
