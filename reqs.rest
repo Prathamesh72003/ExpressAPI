@@ -1,0 +1,23 @@
+GET http://localhost:3000/clients
+
+# POST http://localhost:3000/clients
+# Content-Type: application/json
+
+# {
+#     "name": "Prathamesh Thakare",
+#     "department": "DevOps"
+# }
+
+
+# GET http://localhost:3000/clients/648b6b20f8fd97495b0a732e
+
+PATCH http://localhost:3000/clients/648b720460a51d02475bc583
+Content-Type: application/json
+
+{
+    "name": "Prathamesh Prabhakar Thakare"
+}
+
+# DELETE http://localhost:3000/clients/648b6b20f8fd97495b0a732e
+
+
