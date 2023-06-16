@@ -25,7 +25,7 @@ To get started with the project, follow these steps:
   <li>Navigate to the project directory:</li>
   
   ```
-  cd myapi
+  cd ExpressAPI
   ```
   
   <li>Open the command prompt in the root dir and install the dependencies:</li>
