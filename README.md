@@ -1,7 +1,7 @@
 # REST API's USING EXPRESS, NODE.JS and MONGODB
 
 <p align="center">
-<img src="https://i.ibb.co/R2ZZ5nC/image.png" alt="Logo" width="600" height="350">
+<img src="https://www.shawndsilva.com/public/assets/images/jXAvz9h.png" alt="Logo" width="600" height="350">
 </p>
 
 This project provides a basic template for building RESTful APIs with CRUD (Create, Read, Update, Delete) operations using Express, Node.js, and MongoDB with Mongoose. The API endpoints allow you to interact with a database to manage resources effectively.
