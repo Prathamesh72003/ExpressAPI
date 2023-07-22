@@ -1,4 +1,4 @@
-# REST API's USING EXPRESS, NODE.JS and MONGODB
+# REST API's CREATION USING EXPRESS, NODE.JS and MONGODB
 
 <p align="center">
 <img src="https://www.shawndsilva.com/public/assets/images/jXAvz9h.png" alt="Logo" width="600" height="350">
